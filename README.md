@@ -22,6 +22,7 @@
 2. [基于PyTorch实现GPU加速](tricks/pytorch-speedup.ipynb)
 3. [基于手动编写编译器实现加速](tricks/compiler-speedup.ipynb)
 4. [基于Numba实现Lexicase Selection加速](tricks/numba-lexicase-selection.ipynb)
+5. [基于多进程实现并行评估](tricks/multiprocess-speedup.ipynb)
 
 此外，DEAP还有一些注意事项：
 
