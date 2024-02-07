@@ -15,7 +15,7 @@
 3. [基于多目标GP的符号回归 （Multi-Objective Symbolic Regression）](application/multiobjective-sr.ipynb)
 4. [基于GP的集成学习（Ensemble Learning）](application/ensemble-learning.ipynb)
 5. [基于GP的旅行商问题规则生成（TSP）](application/TSP.ipynb)
-6. [为什么使用GP而不是神经网络？](application/cross-validation-score.ipynb)
+6. [为什么使用GP而不是神经网络？（Feature Construction）](application/cross-validation-score.ipynb)
 
 同时，本教程包含了一些工程技巧：
 
