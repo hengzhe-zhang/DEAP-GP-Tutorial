@@ -1,6 +1,9 @@
 # Byte-compiled / optimized / DLL files
 .idea
 __pycache__/
+application/catboost_info
+application/kaggle.ipynb
+application/data
 *.py[cod]
 *$py.class
 
