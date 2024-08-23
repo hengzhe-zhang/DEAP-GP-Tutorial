@@ -20,9 +20,6 @@
 7. [基于GP自动设计优化算法-理论证明篇（自动生成北极狐算法）](application/theoretical_analysis.ipynb)
 8. [基于不同算子集的多树GP](application/multisets_gp.ipynb)
 
-其他领域的研究者如何入门遗传编程：
-1. [基于灰狼优化的遗传编程](application/grey_wolf_optimizer.ipynb)
-
 同时，本教程包含了一些工程技巧：
 
 1. [基于Numpy实现向量化加速](tricks/numpy-speedup.ipynb)
