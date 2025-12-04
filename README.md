@@ -26,6 +26,7 @@
 3. [基于手动编写编译器实现加速](tricks/compiler-speedup.ipynb)
 4. [基于Numba实现Lexicase Selection加速](tricks/numba-lexicase-selection.ipynb)
 5. [基于多进程实现异步并行评估](tricks/multiprocess_speedup.md)
+6. [基于sklearn接口的Numpy加速符号回归](tricks/numpy_speedup_sr.py)
 
 此外，DEAP还有一些注意事项：
 
